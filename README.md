@@ -4,11 +4,11 @@
  
    ###### Minha página de login. 
  
-<img src="https://imgur.com/b5OBzKj" alt="Pagina inicial instagram">
+<img src="img/Pagina login instagram.png" alt="Pagina inicial instagram">
  
    ###### Responsividade.
  
- <img src="https://imgur.com/cMeftwx" alt="Responsividade">
+ <img src="img/Responsividade.png" alt="Responsividade">
  
  
  ### 	 :computer: Tecnologias Utilizadas:
