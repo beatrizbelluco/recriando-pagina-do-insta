@@ -2,7 +2,7 @@
 
  Este projeto foi realizado através do Bootcamp HTML Web Developer da Digital Innovation One e tem como objetivo recriar a interface de login do Instagram.
  
-- <a href="https://recriando-pagina-do-insta-three.vercel.app/">Clique aqui para visualizar o projeto desenvolvido.</a>
+- <a href="https://recriando-pagina-do-insta-three.vercel.app/">Projeto desenvolvido.</a>
  
  Responsividade
  
